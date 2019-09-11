@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "confluence-backend",
+  "private_key_id": "bb2e5f99bc4dbb6221b93f775487fb12561cf809",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVVvBJ4AXQUUlj\nau1VLW2rFjFtsP+qdKhjsVcJj6WTmleI8Ual7Q9Wijn008Sq1yj0miDp/iJUzDUF\nzRpjeSLC8gxvc7vY/hJgaK5KpzOJZ+7s1PLlGLqN+oq6hmnJ2HI4cKZN02W2bHnH\nlvfu7eAvQpy+90K4RUjvrHL8cMahQV/oupjBm/ABkBbDMQTgQtTcfoxTWOyndSde\n/4ZI8n10Ml4V+/gNZo8Y2LweCPjabdKRL8W7xQcORh9o+nOPmwy0UQJ8O/XgUTqX\n4xmyl5HWh9yw4a/SpQ40RoncZaSY8ncIMC5w6loy8PMKpvh0BCwLZ3TL364ImelH\npAVqJnMdAgMBAAECggEAH4Ryh1dzRG1d3DQlz9mgRBBJSR1HCBWn8uJ2K1Fvcrjw\niaireUPmajCNk1/dxCd5Q3mptyf2RnTMuIiuh1eUDRzZPXXpoIsYh+mvJhRBhuE1\n6QMkxze6B9OlvxywcENrzG7IAuNiOWsZKqVhB4lY/2Jl6ch5sON7fP0LF8RJc/UB\neyWab52+KpRbrjwRuGqDtD3E7L542it4J3t04tyotAh4a7i/lCUdfIEsF59sHUgb\nMDQkmjMmrSKsiR9skYmgzmaXfwbf3obiW3XB4/5gbDD/vw3eouC1MZ0ByFE/8AFQ\nB5ACERDJJoHaukWz9Q4OqfAY3NZwVA3MT7BXalFPuQKBgQDqV5lqC3dcnk+jGzaV\nVkrgvZ4iFuIwrpX34yKOc4F1z8l0owqzndJWU7hDEvItA+PSke8RKOY7US/amgf8\nbhssST0v7ivDuIv1Og90ieZFn1woWGjievwVP8bvkf02SJbjHGHIqIFe650dtVOH\n++ircXrnWpCXjgrslfBBXYM2bwKBgQDpDm4wbKH2vmflBMrKYHNFOJdNPlSi46hk\nPAuZlxspXMbsZ8DmLVpTfD0Q5fqeBiBvkbMesrYo2wkBEofqwe/seXomsx+dGQyw\n0BnWFL/Guix/1S1LmqAjrMkfyCIXcvZO/kLMxJR/V79BlCNPnBEKCm+f+rbCA4TF\nckelhOyVMwKBgQCYmBAi+HJyEfhDem3xkm5Rp8d35TTGhHjNIM8YuWf8giBpXd2T\nFlqnsf5TVtvxqg3IyRRGNT6uM3CYxSIcIsp47Pv14P4IhXxFY9g6h601es60ytUJ\nXRIW+B+fUo3yshPmsU2PLwKG/5+gf7lz2/om4U8ppVRwC6NbaUs4FR9i6wKBgFw3\nhYpLsdq8hMeuGb/yYioltliuLTc29c6To9NmYyz+tQeeFkn98BvQsSkalwwoSHVd\nJY8kD8giw3FVL8rIanMbriXaAsxauRbNgSugkjHEQQ9j/sRHrs3u9LZKrpKwvp2L\nJkt4DXpF8ju0rjQ2ANgEQR8ASYiDc+ncylTIQATZAoGAIXxbT35ufMwuMMp0sHRM\n3Z4zCBvpZ9ifWZXqdJyY6/Di3dWSPPJS2SUMPgSwMleJIB19bun5ZyZTapcrTAkV\nBtUKvEOZgfJqhSoMCnR614A+iPCIc7RuHyX+DrbAzqi2llLYX4SHFt/7/Kg4tt6P\nQ/kYXSLAwnkzLOyosll2o7s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shubham-goyal@confluence-backend.iam.gserviceaccount.com",
+  "client_id": "108265658364606822850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shubham-goyal%40confluence-backend.iam.gserviceaccount.com"
+}
